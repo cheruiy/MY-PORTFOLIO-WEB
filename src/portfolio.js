@@ -20,19 +20,19 @@ const header = {
     // projects can be added an removed
     // if there are no projects, Projects section won't show up
     {
-      name: 'Project 1',
+      name: 'Task Managment App',
       description:
         'This app is design to help teams stay organized by tracking tasks, ensuring timely completion, and boosting productivity.',
       stack: ['React', 'Python with Flask', 'PostgreSQL'],
-      sourceCode: 'https://github.com',
+      sourceCode: 'https://taskmanagerke.netlify.app/',
       livePreview: 'https://taskmanagerke.netlify.app/',
     },
     {
-      name: 'Project 2',
+      name: 'Art Gallery',
       description:
         'My Art Gallery App is a platform for showcasing and adding artwork, allowing artists to upload and display their collections in a visually engaging way',
       stack: ['Javascript', 'React', 'PostgreSQL'],
-      sourceCode: 'https://github.com',
+      sourceCode: 'https://sparkling-treacle-fad276.netlify.app/',
       livePreview: 'https://sparkling-treacle-fad276.netlify.app/',
     },
     {
@@ -40,8 +40,8 @@ const header = {
       description:
         'Overview Movers App is a Flask-based web application designed to manage moving-related activities.',
       stack: ['SASS', 'TypeScript', 'React'],
-      sourceCode: 'https://github.com',
-      livePreview: 'https://github.com',
+      sourceCode: 'https://linkedin.com',
+      livePreview: 'https://linkedin.com',
     },
   ]
   
