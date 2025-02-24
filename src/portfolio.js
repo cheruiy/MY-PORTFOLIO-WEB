@@ -1,9 +1,8 @@
 const header = {
     // all the properties are optional - can be left empty or deleted
-    homepage: 'https://github.com/Thairu-dev/Task-Manager',
-    title: 'JS.',
+    homepage: 'https://github.com/cheruiy/MY-PORTFOLIO-WEB',
+    title: 'CR.',
   }
-  
   const about = {
     // all the properties are optional - can be left empty or deleted
     name: 'Cheruiyot Robert',
